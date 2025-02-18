@@ -19,7 +19,7 @@
 							<archive>
 								<manifest>
 									<mainClass>
-										main.Interfaz
+										main.InterfazJenkins
 									</mainClass>
 								</manifest>
 							</archive>
